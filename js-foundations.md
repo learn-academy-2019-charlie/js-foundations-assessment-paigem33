@@ -32,15 +32,15 @@ You can cd followed by the directory you want, or you can do cd .. to move up on
 
 8. Do you have a suggestion for a Check In question?
 
-
+What is your favorite animal?
 
 9. What was your favorite topic this week?
 
-
+Class inheritance, especially the car challange. 
 
 10. What was your "A-ha!" moment this week?
 
-
+Getting the light bulb and switch image to change on the lightbulb challange.
 
 ### Stretch: The following questions are potential interview questions. First, try to answer each question on your own then Google the answer to further your knowledge.
 
